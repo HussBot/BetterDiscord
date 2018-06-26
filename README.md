@@ -1,1 +1,1 @@
-# BetterDiscord
+My better discord things (themes and plugins) that i made
